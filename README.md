@@ -4,7 +4,7 @@ DeFi resources.
 
 ## Wallet Providers
 
-*Basic wallet providers, controlled with seed phrases or private keys.*
+*Standard wallets, controlled with seed phrases or private keys.*
 
 ### Browser Extensions
 
@@ -28,7 +28,7 @@ MyCrypto Desktop - https://download.mycrypto.com/
 
 ## Smart Wallets
 
-*Smart contract wallets, with advanced features and account abstraction.*
+*Smart contract wallets, with advanced features like account abstraction.*
 
 Safe - https://app.safe.global (previously Gnosis Safe)
 
@@ -36,8 +36,17 @@ Safe - https://app.safe.global (previously Gnosis Safe)
 
 Argent - https://www.argent.xyz/ (mobile only)
 
+## Aggregators
 
+DefiLlama - https://swap.defillama.com
 
+>Aggregates aggregators. Time-efficient choice in most cases
+
+CowSwap - https://swap.cow.fi
+
+>Protected against frontrunning. Execution is delayed.
+
+Swapr - https://swapr.eth.limo
 
 ## Analytics
 
