@@ -99,6 +99,10 @@ Auragi - https://auragi.finance/swap
 
 Thena - https://www.thena.fi/swap
 
+### Metis
+
+Hermes - https://hermes.maiadao.io/#/swap
+
 ### zkSync Era
 
 Velocore - https://app.velocore.xyz/swap
