@@ -11,7 +11,7 @@ DefiLlama - https://defillama.com
 
 ## Solidly Forks
 
-Most Solidly forks have 1 week epochs. Epoch change is every Thursday, at midnight UTC.
+Solidly forks have 1 week epochs. Epoch change is every Thursday, at midnight UTC.
 
 ### Optimism
 
