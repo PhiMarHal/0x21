@@ -2,6 +2,43 @@
 
 DeFi resources.
 
+## Wallet Providers
+
+*Basic wallet providers, controlled with seed phrases or private keys.*
+
+### Browser Extensions
+
+Metamask - https://metamask.io/
+
+Rabby - https://rabby.io/
+
+Taho - https://taho.xyz/ (prev Tally Ho)
+
+### Online
+
+MyCrypto - https://app.mycrypto.com/dashboard
+
+MyEtherWallet - https://www.myetherwallet.com/
+
+### Local
+
+0xFrame - https://frame.sh/
+
+MyCrypto Desktop - https://download.mycrypto.com/
+
+## Smart Wallets
+
+*Smart contract wallets, with advanced features and account abstraction.*
+
+Safe - https://app.safe.global (previously Gnosis Safe)
+
+>A Safe is a multisig wallet. If set up as 1/1, it enables multistep transactions and easy key rotation.
+
+Argent - https://www.argent.xyz/ (mobile only)
+
+
+
+
 ## Analytics
 
 Coingecko - https://www.coingecko.com
