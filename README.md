@@ -17,6 +17,10 @@ Solidly forks have 1 week epochs. Epoch change is every Thursday, at midnight UT
 
 Velodrome - https://app.velodrome.finance/swap
 
+router: `0x9c12939390052919aF3155f41Bf4160Fd3666A6f`
+
+
+
 ### Arbitrum
 
 SolidLizard - https://solidlizard.finance/swap
