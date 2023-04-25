@@ -20,6 +20,7 @@ Velodrome - https://app.velodrome.finance/swap
 ### Arbitrum
 
 SolidLizard - https://solidlizard.finance/swap
+
 Auragi - https://auragi.finance/swap
 
 ### Binance Chain
@@ -41,6 +42,7 @@ Satin - https://satin.exchange/swap
 ### Avalanche
 
 Glacier - https://www.glacier.exchange/
+
 SoliSnek - https://www.solisnek.finance/swap
 
 ### Canto
