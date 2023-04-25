@@ -48,6 +48,28 @@ CowSwap - https://swap.cow.fi
 
 Swapr - https://swapr.eth.limo
 
+## MEV Protection
+
+- lowering slippage to <=0.1% will work most of the time on liquid tokens.
+- use limit orders on Matcha or 1inch
+- use natively MEV protected dexes like CowSwap
+- trade on Arbitrum or Optimism, their sequencers are currently centralized (no frontrunning from thirdparties)
+- use RPCs:
+
+MEVBlocker: https://mevblocker.io/
+
+>Focused on fast execution. Refunds 90% of any backrunning opportunity.
+
+MEVBlocker offers alternate endpoints for different purposes
+>- with revert protection: https://rpc.mevblocker.io/noreverts
+>- without refunds, but with revert protection and full privacy: https://rpc.mevblocker.io/norefunds
+>
+Flashbots Protect: https://docs.flashbots.net/flashbots-protect/rpc/quick-start
+
+>Protects against reverts.
+
+Flashbots Protect also offers other endpoints, similar to MEVBlocker: https://docs.flashbots.net/flashbots-protect/rpc/mev-share#examples
+
 ## Analytics
 
 Coingecko - https://www.coingecko.com
