@@ -11,6 +11,8 @@ DefiLlama - https://defillama.com
 
 ## Solidly Forks
 
+Most Solidly forks have 1 week epochs. Epoch change is every Thursday, at midnight UTC.
+
 ### Optimism
 
 Velodrome - https://app.velodrome.finance/swap
