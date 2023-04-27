@@ -95,6 +95,8 @@ SolidLizard - https://solidlizard.finance/swap
 
 Auragi - https://auragi.finance/swap
 
+Chronos - https://app.chronos.exchange
+
 ### Binance Chain
 
 Thena - https://www.thena.fi/swap
