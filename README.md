@@ -109,6 +109,8 @@ Hermes - https://hermes.maiadao.io/#/swap
 
 Velocore - https://app.velocore.xyz/swap
 
+Stratum - https://linktr.ee/stratumexchange
+
 ### Fantom
 
 Equalizer - https://equalizer.exchange
