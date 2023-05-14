@@ -111,6 +111,8 @@ Velocore - https://app.velocore.xyz/swap
 
 Stratum - https://linktr.ee/stratumexchange
 
+veZard - https://docs.vezard.exchange/
+
 ### Fantom
 
 Equalizer - https://equalizer.exchange
