@@ -113,6 +113,16 @@ Stratum - https://linktr.ee/stratumexchange
 
 veZard - https://docs.vezard.exchange/
 
+Talos - https://linktr.ee/talosfinance (airdrop: https://twitter.com/TalosFi/status/1657289204886560769)
+
+Dracula - https://linktr.ee/draculafi
+
+Asterisk - https://asterisk.finance/
+
+veSync - https://vesync.finance/ (airdrop closed)
+
+Houdini - https://linktr.ee/houdinifinance
+
 ### Fantom
 
 Equalizer - https://equalizer.exchange
