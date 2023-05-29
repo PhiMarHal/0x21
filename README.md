@@ -102,6 +102,8 @@ Solunea - https://www.solunea.xyz/liquidity
 
 Thena - https://www.thena.fi/swap
 
+Usdfi - https://usdfi.com/pools
+
 ### Metis
 
 Hermes - https://hermes.maiadao.io/#/swap
