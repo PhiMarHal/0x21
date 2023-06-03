@@ -26,6 +26,14 @@ MyEtherWallet - https://www.myetherwallet.com/
 
 MyCrypto Desktop - https://download.mycrypto.com/
 
+### Hardware/Cold
+
+AirGap Vault - https://airgap.it/ (phone app, opensource, can remain offline, transactions go through QR codes)
+
+Ledger - https://www.ledger.com/ (hardware wallet, closed source, firmware updates are an attack vector)
+
+Trezor - https://trezor.io/ (hardware wallet, open source)
+
 ## Smart Wallets
 
 *Smart contract wallets, with advanced features like account abstraction.*
@@ -75,3 +83,5 @@ Flashbots Protect also offers other endpoints, similar to MEVBlocker: https://do
 Coingecko - https://www.coingecko.com
 
 DefiLlama - https://defillama.com
+
+Dune - https://dune.com/browse/dashboards
