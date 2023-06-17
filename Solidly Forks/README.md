@@ -64,6 +64,8 @@ Satin - https://satin.exchange/swap
 
 MagicFox - https://app.magicfox.fi/vaults (also on Arbitrum, BNB)
 
+Pearl - https://www.pearl.exchange/liquidity
+
 ### Avalanche
 
 Glacier - https://www.glacier.exchange/
