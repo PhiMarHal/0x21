@@ -54,6 +54,8 @@ Houdini - https://linktr.ee/houdinifinance
 
 Solunea - https://www.solunea.xyz/liquidity (also on Arbitrum)
 
+Valea - https://valea.exchange/
+
 ### Fantom
 
 Equalizer - https://equalizer.exchange
